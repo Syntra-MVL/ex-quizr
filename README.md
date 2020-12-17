@@ -10,6 +10,8 @@ Het html bestand moeten jullie niet meer wijzigen.
 #### Doel:
 Een simpele quiz spel met Juist/Fout vragen.
 
+Bekijk de demo op http://phpstack-224488-1654021.cloudwaysapps.com/quizr/
+
 - Er zijn steeds 10 vragen die elk nieuw spel in een willekeurige volgorde worden getoond.
 - De antwoorden (of ze al dan niet correct zijn) worden bijgehouden in:   
 `<div class="result tag is-dark is-large">Vraag 01</div>`  
