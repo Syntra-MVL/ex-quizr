@@ -1,7 +1,7 @@
 # Quizr
 
 ## Structuur
-De oefeningen bevinden zich in een aparte map met de naam `quizr`
+De oefening zit in een aparte map met de naam `quizr`
 Daarin zitten alle bestanden die je nodig hebt om de oefening te maken, dit een `index.html`, `style.css` en een `script.js` bestand.
 Het script en style bestand zal al gelinkt zijn aan het html bestand.
 Het html bestand moeten jullie niet meer wijzigen.
